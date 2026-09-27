@@ -34,24 +34,6 @@ Saya adalah seorang AI-driven developer dan software engineer yang merancang ser
 
 ---
 
-### 📊 GitHub Activity & Real-time Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusrama79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Agus Rama GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrama79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusrama79&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusrama79&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="97%" />
-</div>
-
----
-
----
 
 ### Featured Engineering Projects
 - **Pagram Cloud NAS:** Private cloud storage mandiri dengan chunked upload stream, telemetry resource real-time, dan REST API.
