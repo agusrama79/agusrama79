@@ -16,11 +16,40 @@ Saya adalah seorang AI-driven developer dan software engineer yang merancang ser
 
 ---
 
-### Core Tech Stack & Tools
-- **Languages:** Python, JavaScript (ES6+), TypeScript, SQL, HTML5, Modern CSS
-- **Frontend & UI:** React, Next.js, Tailwind CSS, Modular Token Systems, WebGL / 360° Virtual Tour
-- **Backend & Cloud:** Python (Asyncio/REST API), Node.js, Linux VPS (Ubuntu/Debian), Cloudflare Tunnels, systemd, Git/GitHub
-- **Data & Machine Learning:** Scikit-learn, K-Means Clustering, Pandas, Data Modeling, Certiport Database Systems
+### 🛠️ Tech Stack & Capabilities
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,html,css,nodejs,fastapi,postgres,mysql,linux,bash,cloudflare,docker,git,github&theme=dark&perline=9" alt="Tech Stack Logos" />
+</div>
+
+<br/>
+
+| Kategori | Teknologi & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript (ES6+)` `TypeScript` `SQL` `HTML5` `CSS3` |
+| **Frontend & UI** | `React` `Next.js` `Tailwind CSS` `Modular Token Systems` `WebGL / 360° VR` |
+| **Backend & Cloud** | `Python (Asyncio/REST API)` `Node.js` `Linux (Ubuntu/Debian)` `Cloudflare Tunnels` `systemd` `Docker` |
+| **Data & Machine Learning** | `Scikit-learn` `K-Means Clustering` `Pandas` `NumPy` `Relational Data Modeling` |
+| **Workflow & DevOps** | `Git` `GitHub Actions` `Nginx` `VS Code` `Certiport Database Certified` |
+
+---
+
+### 📊 GitHub Activity & Real-time Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusrama79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Agus Rama GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrama79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusrama79&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusrama79&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="97%" />
+</div>
+
+---
 
 ---
 
