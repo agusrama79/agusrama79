@@ -35,13 +35,18 @@ Saya adalah seorang AI-driven developer dan software engineer yang merancang ser
 ---
 
 
-### Featured Engineering Projects
-- **Pagram Cloud NAS:** Private cloud storage mandiri dengan chunked upload stream, telemetry resource real-time, dan REST API.
-- **Edge Telegram Terminal Bridge:** 24/7 background daemon yang menghubungkan AI agent engine langsung ke server Linux melalui Telegram.
-- **MoneyTree.Inc & Satvhika Studio:** Platform ekosistem digital, POS cloud, dan storefront SaaS untuk UMKM dan profesional.
-- **NusaHeritage.id:** Platform preservasi budaya digital & 360° VR Tour Pura Kahyangan Tiga Kintamani (*Juara 1 Budaya Go! 2025*).
+### 🚀 Featured Engineering Projects
+
+- ⛽ **BBM Tracker:** Sistem navigasi operasional armada lapangan & audit reimbursement BBM (Pertamax vs Pertalite). Dilengkapi integrasi Leaflet OSM & Google Maps turn-by-turn, validasi deviasi odometer aktual vs GPS, pencetakan formal Slip Bukti Kas Keluar (BKK), serta Role-Based Access Control (RBAC).
+- 🖥️ **Server Controller / Edge Manager :** Web dashboard pemantauan Linux VPS & Edge Node mandiri. Menyajikan telemetri performa real-time (CPU load, RAM usage, storage partition), supervisi proses latar belakang (Cloudflare Tunnel, HTTP daemon, Telegram bot service), serta tombol kontrol cepat.
+- 📱 **Seken-Scan (iPhone Inspection Engine):** Aplikasi web panduan diagnostik & inspeksi teknis iPhone second (SE 2 hingga 17 Pro Max). Menyediakan checklist 4 tahap verifikasi COD terarah: cek fisik baut pentalobe, LCI indikator air, layar True Tone, kamera Fusion/ProRAW, dekode region model (PA/A, LL/A), serta baterai 3uTools.
+- 📦 **Pagram Cloud NAS:** Private cloud storage NAS mandiri dengan REST API chunked upload streaming, web file explorer, media streaming, dan monitoring disk laptop.
+- ⚡ **Edge Telegram Terminal Bridge:** 24/7 background daemon yang menghubungkan AI Agent Engine langsung ke terminal Linux VPS melalui Telegram bot dengan streaming response.
+- 💼 **MoneyTree.Inc & BaliBiz Scout :** Platform ekosistem digital untuk UMKM dan riset lokasi usaha bisnis komprehensif di Bali (kawasan Sarbagita).
+- 🏛️ **NusaHeritage.id:** Platform preservasi budaya digital & 360° VR Tour Pura Kahyangan Tiga Kintamani (*Juara 1 Budaya Go! 2025*).
 
 ---
+
 
 ### Publications & Academic Credentials
 1. **Machine Learning Research (IMADE 2024):**
